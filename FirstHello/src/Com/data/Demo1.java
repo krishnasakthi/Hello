@@ -12,6 +12,10 @@ public class Demo1 {
 		System.out.println(++a);
 		System.out.println(--a);
 		
+		int x=200;
+		
+		System.out.println(a+x);
+		
 		
 
 	}
